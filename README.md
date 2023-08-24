@@ -1,3 +1,18 @@
+/************************************************************************************************
+   Description:開發公司內部網站EIP
+   HISTORY
+   Date         Authur      Version   Description
+   ----------   ---------   -------   -------------------------------------------------------------
+   2023/08/24   Yolin.Chen   v1.01    建立專案 ng new appv4 --routing --style css
+                                      ng g c header --skip-tests
+                                      ng g c nav --skip-tests
+                                      ng g c main --skip-tests
+                                      ng g c aside --skip-tests
+                                      ng g c footer --skip-tests
+                                      ng g c privacy-policy --skip-tests
+                                      參考網站 https://www.positronx.io/css-grid-layout-holy-grail-angular-ui-tutorial/
+  ************************************************************************************************
+
 # Appv4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
